@@ -55,6 +55,5 @@ troisieme screen :
 ---
 
 ## Crédits 👏
-- Développé par **Moi même**, inspiré d'un tutoriel en ligne.
-
+- Développé par **Moi même**, très fortement inspiré d'un tutoriel en ligne.
 ---
