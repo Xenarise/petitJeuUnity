@@ -46,7 +46,6 @@ deuxieme screen :
 ---
 
 ## Améliorations possibles 🔮
-- Ajout d'ennemis ou d'obstacles pour plus de challenge.
 - Développement d'un système de niveaux progressifs.
 - Implémentation de sons et d'effets visuels supplémentaires.
 
